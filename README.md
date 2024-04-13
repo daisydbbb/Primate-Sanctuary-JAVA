@@ -1,6 +1,6 @@
-# Primate Sanctuary System App
+# Primate Sanctuary System App 🐵
 
-This Java application is designed to assist with the management and registration of primates at a primate sanctuary. It supports various functions, including registration, housing, and tracking of primates within different types of living arrangements.
+This Java application is designed to assist with the management and registration of primates at a primate sanctuary. It supports various functions, including registration, moving, sickness treatment etc.
 
 ## Description
 
@@ -49,7 +49,7 @@ Contributions to improve the app are welcome. Please fork the repository and sub
 
 ## Authors
 
-- [Your Name](mailto:your.email@example.com)
+- [XIN DING](mailto:[ding.xin3@northeastern.edu])
 
 ## License
 
