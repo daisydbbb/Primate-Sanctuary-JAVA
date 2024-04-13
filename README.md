@@ -5,16 +5,17 @@ This Java application is designed to assist with the management and registration
 ## Description
 
 The Primate Sanctuary System app facilitates the management of two types of primate housing:
-- **Isolation Cages:** For new arrivals and those receiving medical attention, ensuring individual housing.
+- **Isolation Cages:** There are 20 individual cages for new arrivals and those that are sick and need medical attention.
 - **Enclosures:** Larger areas that can accommodate a troop of monkeys from the same species.
 
-## Features
+## Key Features
 
 - **Registration of New Monkeys:** Allows users to register new monkeys directly into isolation.
-- **Capacity Notifications:** Notifies users when isolation cages are full and no further monkeys can be accommodated.
-- **Monkey Transfers:** Enables users to move monkeys from isolation to the appropriate enclosures after receiving medical care.
-- **Enclosure Lists:** Generates detailed lists for each enclosure showing the monkeys housed, including their name, sex, and favorite food.
-- **Alphabetical Monkey List:** Produces an alphabetical list of all monkeys housed in the sanctuary.
+- **Notifications:** Alert users when the action has issue and can not be performed. E.g. when isolation cages are full and no further monkeys can be accommodated.
+- **Monkey Transfers:** Enables users to move monkeys from isolation cages to the appropriate enclosures when they are healthy.
+- **Enclosure Lists:** Generates detailed lists for each enclosure showing the monkeys housed, including their name, sex, favorite food, enclosure type and healthy status.
+- **All Primates Lists:** Generates the list that includes all the primates in the sanctuary, including isolation cages and enclosures.
+- **Alphabetical Order:** All monkeys housed in the sanctuary are listed in alphabetical order.
 
 ## Getting Started
 
@@ -49,7 +50,7 @@ Contributions to improve the app are welcome. Please fork the repository and sub
 
 ## Authors
 
-- [XIN DING](mailto:[ding.xin3@northeastern.edu])
+- [XIN DING (Daisy)](mailto:[ding.xin3@northeastern.edu])
 
 ## License
 
